@@ -32,7 +32,7 @@ for _ in range(10):
 ```
 
 ### 🌐 Connect with Me
-- 🔗 LinkedIn: [fuck linkedin](#)
+- 🔗 LinkedIn: [fuck linkedin]()
 - 🐦 Twitter:[@vaibhaavvvvvv](https://x.com/vaibhaavvvvvv)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
