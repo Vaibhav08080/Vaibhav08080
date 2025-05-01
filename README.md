@@ -31,6 +31,11 @@ for _ in range(10):
     sleep(0.5)
 ```
 
+### GitHub Contributions Snake 🐍
+
+![Snake animation](https://github.com/Vaibhav08080/Vaibhav08080/blob/output/github-snake.svg)
+
+
 ### 🌐 Connect with Me
 - 🔗 LinkedIn: [fuck linkedin]()
 - 🐦 Twitter:[@vaibhaavvvvvv](https://x.com/vaibhaavvvvvv)
