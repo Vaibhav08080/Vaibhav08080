@@ -38,7 +38,7 @@ for _ in range(10):
 
 
 ### 🌐 Connect with Me
-- 🔗 LinkedIn: [fuck linkedin]()
+- 🔗 LinkedIn: [fuck linkedin](https://www.linkedin.com/in/vaibhav-kr-prince-0a7432332/)
 - 🐦 Twitter:[@vaibhaavvvvvv](https://x.com/vaibhaavvvvvv)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
