@@ -31,11 +31,6 @@ for _ in range(10):
     sleep(0.5)
 ```
 
-### 🐍 GitHub Contributions Snake
-
-<!-- Light Mode -->
-![Snake animation](https://github.com/Vaibhav08080/Vaibhav08080/blob/output/github-snake.svg)
-
 <!-- Dark Mode -->
 ![Snake animation - dark](https://github.com/Vaibhav08080/Vaibhav08080/blob/output/github-snake-dark.svg)
 
