@@ -34,10 +34,11 @@ for _ in range(10):
 ### 🐍 GitHub Contributions Snake
 
 <!-- Light Mode -->
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Vaibhav08080/Vaibhav08080/blob/output/github-snake.svg)
 
 <!-- Dark Mode -->
-![Snake animation - dark](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/output/github-snake-dark.svg)
+![Snake animation - dark](https://github.com/Vaibhav08080/Vaibhav08080/blob/output/github-snake-dark.svg)
+
 
 
 
