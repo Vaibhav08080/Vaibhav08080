@@ -23,9 +23,9 @@ Hey there! I'm **Vaibhav** - a passionate Full-Stack Developer and AI/ML enthusi
 <p align="center">
   <img src="./githubgif.gif" width="700"/>
 </p>
+
 <!-- Dark Mode -->
 ![Snake animation - dark](https://github.com/Vaibhav08080/Vaibhav08080/blob/output/github-snake-dark.svg)
-
 
 
 
