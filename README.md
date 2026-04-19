@@ -18,19 +18,11 @@ Hey there! I'm **Vaibhav** - a passionate Full-Stack Developer and AI/ML enthusi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav08080&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav08080&theme=radical)
 
-### 💥 Crazy Code Magic
-```python
-from time import sleep
-from random import choice
+## ⚡ GitHub Activity
 
-greetings = ['Hello', 'Hey', 'Hi', 'Hola', 'Bonjour', 'Namaste']
-emojis = ['🔥', '💥', '⚡', '🚀', '💻', '✨']
-
-for _ in range(10):
-    print(f"{choice(greetings)} World {choice(emojis)}")
-    sleep(0.5)
-```
-
+<p align="center">
+  <img src="./githubgif.gif" width="700"/>
+</p>
 <!-- Dark Mode -->
 ![Snake animation - dark](https://github.com/Vaibhav08080/Vaibhav08080/blob/output/github-snake-dark.svg)
 
